@@ -1,5 +1,5 @@
 # "Primeiros passos com AplicacaoASP.Net"
-![".NET + C#"](https://raw.githubusercontent.com/HeberSilverio/.NET-C-/main/img-code.PNG)
+![".NET + C#"](https://github.com/HeberSilverio/AplicacaoASP.Net/blob/main/PageWeb.gif)
 
 ### 🎫 Descrição do Projeto 
 O conteúdo deste repositório são minhas anotações do curso "Conheça o Entity Framework e crie aplicações ASP.NET". Os principais assuntos absorvidos deste treinamento foram: 
